@@ -1,3 +1,0 @@
-#!/usr/bin/env node
-
-console.log('fy cli v1.0.0, Horay !!!');
