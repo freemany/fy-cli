@@ -1,12 +1,14 @@
 {
-  "name": "@freeman/cli",
+  "name": "@freemany/cli",
   "description": "Fy CLI",
   "license": "MIT",
   "repository": {},
-  "version": "1.0.1",
+  "version": "1.1.0",
   "author": "Freeman Yam",
   "main": "bin/fy",
-  "bin": "bin/fy",
+  "bin": {
+    "dp": "bin/fy"
+  },
   "scripts": {
   },
   "preferGlobal": true,

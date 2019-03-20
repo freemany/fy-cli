@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('fy cli v1.0.1, Horay !!!');
+console.log('fy cli v1.1.0, Horay !!!');
