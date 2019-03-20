@@ -1,0 +1,14 @@
+{
+  "name": "@freemany/cli",
+  "description": "Fy CLI",
+  "license": "MIT",
+  "repository": {},
+  "version": "1.0.0",
+  "author": "Freeman Yam",
+  "main": "bin/fy",
+  "scripts": {
+  },
+  "preferGlobal": true,
+  "dependencies": {
+  }
+}
