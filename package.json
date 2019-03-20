@@ -6,6 +6,7 @@
   "version": "0.0.0",
   "author": "Freeman Yam",
   "main": "bin/fy",
+  "bin": "bin/fy",
   "scripts": {
   },
   "preferGlobal": true,
