@@ -5,7 +5,7 @@
   "repository": {},
   "version": "1.0.1",
   "author": "Freeman Yam",
-  "main": "bin/fy",
+  "main": "src/fy",
   "bin": {
     "fy": "src/fy"
   },
